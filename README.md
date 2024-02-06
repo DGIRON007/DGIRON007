@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DGIRON007
-- 👀 I’m interested in IOS AND ANDROID DEVELOPMENT
+- 👀 I’m interested in web and movile development
 - 🌱 I’m currently working "swift, c# , Flutter , SQLSERVER , Angular and phyton" 
 
 

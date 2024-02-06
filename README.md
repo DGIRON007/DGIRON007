@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DGIRON007
 - 👀 I’m interested in IOS AND ANDROID DEVELOPMENT
-- 🌱 I’m currently learning "swift y phyton" 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning "swift, c# , Flutter , SQLSERVER , Angular and phyton" 
+
 
 <!---
 DGIRON007/DGIRON007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

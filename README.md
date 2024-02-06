@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DGIRON007
 - 👀 I’m interested in web and movile development
-- 🌱 I’m currently working "swift, c# , Flutter , SQLSERVER , Angular and phyton" 
+- 🌱 I’m currently working "swift, c# , Flutter , SQLServer, Angular and phyton" 
 
 
 <!---
